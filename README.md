@@ -23,7 +23,7 @@ Disponível em:  `http://localhost:8081`
 
 ## Dados gerados a partir de um ![gerador de dados](https://www.json-generator.com/)
 
-```JSON
+```js
 [
   '{{repeat(10000)}}',
   {
