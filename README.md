@@ -10,7 +10,7 @@ MONGO_ROOT_PASSWORD=example
 ## Para rodar:
 
 ```sh
-docker-compose -f docker-compose up
+docker-compose -f docker-compose.yml up
 ```
 
 ---
