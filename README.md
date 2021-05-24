@@ -1,4 +1,4 @@
-# Criar um arquivo com o nome `.env` na raiz do diretório com as seguintes variáveis:
+## Criar um arquivo com o nome `.env` na raiz do diretório com as seguintes variáveis:
 
 ```
 MONGO_ROOT_USERNAME=root
